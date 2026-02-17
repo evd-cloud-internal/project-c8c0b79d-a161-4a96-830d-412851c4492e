@@ -94,7 +94,7 @@ ORDER BY start_date
         x_max="end_date"
         color="grey"
         area_options={
-            opacity=0.5
+            opacity=0.99
         }
     /%}
 {% /line_chart %}
